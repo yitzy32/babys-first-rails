@@ -1,0 +1,4 @@
+{
+  message: "hello",
+  favorite_computing_language: @favorite_computing_language,
+}
